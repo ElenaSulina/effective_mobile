@@ -29,7 +29,8 @@
 
 ## Запуск приложения / Running the app
 
-Убедитесь, что Вы в папке effective_mobile и выполните команду ниже
+Убедитесь, что Вы в папке effective_mobile и запустите файл library.py вашим интерпретатором.
+Например:
 
 ```bash
 python library.py
